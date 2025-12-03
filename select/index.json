@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "また逢う日まで",
+  "base_artist": "平井 大",
+  "createdAt": "2025-12-03T00:46:58.410992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gold　～また逢う日まで～",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Gold_~また逢う日まで~_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gold ~また逢う日まで~ (Mata Au Hi Made)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Gold_~また逢う日まで~_(Mata_Au_Hi_Made)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gold ～また逢う日まで～",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_Gold_~また逢う日まで~_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "また逢う日まで (オリジナル・カラオケ)",
+      "artist": "Kiyohiko Ozaki",
+      "has_synced": true,
+      "path": "select/04_また逢う日まで_(オリジナル・カラオケ)_Kiyohiko_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gold ～また逢う日まで～",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/05_Gold_~また逢う日まで~_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gold　～また逢う日まで～",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/06_Gold_~また逢う日まで~_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gold ～また逢う日まで～",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/07_Gold_~また逢う日まで~_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/08_また逢う日まで_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gold 〜また逢う日まで〜",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_Gold_〜また逢う日まで〜_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gold ~また逢う日まで~",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_Gold_~また逢う日まで~_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "また逢う日まで - Mataauhimade",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/11_また逢う日まで_-_Mataauhimade_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gold　～また逢う日まで～ - Gold -Mata Au Hi Made-",
+      "artist": "宇多田ヒカル - Hikaru Utada",
+      "has_synced": false,
+      "path": "select/12_Gold_~また逢う日まで~_-_Gold_-Mata_Au_Hi_Made-_宇多田ヒカル_-_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/13_また逢う日まで_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "尾崎紀世彦",
+      "has_synced": true,
+      "path": "select/14_また逢う日まで_尾崎紀世彦.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "Ozaki, Kiyohiko",
+      "has_synced": true,
+      "path": "select/15_また逢う日まで_Ozaki,_Kiyohiko.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "Kiyohiko Ozaki",
+      "has_synced": true,
+      "path": "select/16_また逢う日まで_Kiyohiko_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gold　～また逢う日まで～",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/17_Gold_~また逢う日まで~_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "また逢う日まで",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/18_また逢う日まで_HIRAIDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また逢う日まで",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_また逢う日まで_平井大.txt"
+    }
+  ]
+}
